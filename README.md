@@ -1,3 +1,8 @@
 # This is Emma's game
 
-Check back in for more info.
+Pre-requisites: NodeJS
+
+To run:
+```
+npm start
+```
